@@ -30,7 +30,7 @@ console.log(estudiante.charAt(0));
 console.log(estudiante.charAt(15));
 
 //Una cadena de texto que elimine los espacios
-console.log(estudiante.trim());
+console.log(estudiante.replace(/ /g, "");
 
 
 //si el Nombre está contenido en la variable "estudiante"
