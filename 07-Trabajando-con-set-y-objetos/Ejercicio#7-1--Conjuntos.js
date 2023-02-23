@@ -1,4 +1,4 @@
-// Ejercicio #7-1
+// Ejercicio #7-1--Conjuntos
 //Crea un archivo llamado conjuntos.js que contenga las siguientes líneas
 //Un nuevo Set con los nombres de tu familia
 const familia = ["Cathe","Ligia", "Paula", "Lary", "Pablo"]
